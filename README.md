@@ -18,7 +18,7 @@ Since Pollfish addresses the market research marketplace, Pollfish surveys can b
 
 * Unity 4.6.8 +
 * iOS 9.0 +
-* Android 2.3.3 (10) +
+* Android 4.2 (17) +
 
 
 ## Quick Quide
