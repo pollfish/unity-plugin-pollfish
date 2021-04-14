@@ -16,9 +16,9 @@ Since Pollfish addresses the market research marketplace, Pollfish surveys can b
 
 **Requirements:** Pollfish Unity Plugin works with:
 
-* Unity 4.6.8 +
+* Unity 2020 +
 * iOS 9.0 +
-* Android 16 +
+* Android 21 +
 
 
 ## Quick Quide
