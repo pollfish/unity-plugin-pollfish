@@ -2,7 +2,7 @@
 
 ![alt tag](https://storage.googleapis.com/pollfish-images/logoHome.png)
 
-[Pollfish] (http://www.pollfish.com) is new way of monetizing mobile apps that pays up to 20x more than classic ads. 
+[Pollfish](http://www.pollfish.com) is new way of monetizing mobile apps that pays up to 20x more than classic ads. 
 
 Pollfish is a survey platform that delivers surveys instead of ads through mobile apps. Integration of Pollfish SDK takes less than 2 minutes and requires only one line of code. No changes are needed in the UI of the app since everything is displayed as an overlay (see below), while users that respond to surveys, enter into draws and win prizes (happy users)! 
 
@@ -14,7 +14,7 @@ Since Pollfish addresses the market research marketplace, Pollfish surveys can b
 
 [Learn More..](https://www.pollfish.com/publisher/)
 
-**Requirements:** Pollfish Unity Plugin works with:
+## Prerequisites
 
 * Unity 2020 +
 * iOS 9.0 +
@@ -35,7 +35,7 @@ Since Pollfish addresses the market research marketplace, Pollfish surveys can b
 
 You can see a step by step guide on how to integrate at the official [Documentation page](https://www.pollfish.com/docs/unity)
 
-## Pollfish Unity Sample Project
+## Sample Project
 
 In order to have a look on a simple integration of Pollfish in a unity project have a look in Assets/Plugins/Pollfish/demo folder. You can run the scene there and see how Pollfish will be rendered through your apps.
 
