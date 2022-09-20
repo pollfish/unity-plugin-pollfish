@@ -17,7 +17,7 @@ Since Pollfish addresses the market research marketplace, Pollfish surveys can b
 ## Prerequisites
 
 * Unity 2020 +
-* iOS 9.0 +
+* iOS 11.0 +
 * Android 21 +
 
 
